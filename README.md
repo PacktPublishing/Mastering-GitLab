@@ -1,2 +1,2 @@
 # Mastering-GitLab
-Published by Packt, Mastering GitLab
+Mastering GitLab, published by Packt 
